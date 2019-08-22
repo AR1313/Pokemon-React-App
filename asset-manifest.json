@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pokemon-App/static/css/main.e5f3a768.chunk.css",
+    "main.js": "/Pokemon-App/static/js/main.cd4ec42b.chunk.js",
+    "main.js.map": "/Pokemon-App/static/js/main.cd4ec42b.chunk.js.map",
+    "runtime~main.js": "/Pokemon-App/static/js/runtime~main.37f147c9.js",
+    "runtime~main.js.map": "/Pokemon-App/static/js/runtime~main.37f147c9.js.map",
+    "static/js/2.d6effa47.chunk.js": "/Pokemon-App/static/js/2.d6effa47.chunk.js",
+    "static/js/2.d6effa47.chunk.js.map": "/Pokemon-App/static/js/2.d6effa47.chunk.js.map",
+    "index.html": "/Pokemon-App/index.html",
+    "precache-manifest.aaf27919f94baae5c13fceda4e6cfc29.js": "/Pokemon-App/precache-manifest.aaf27919f94baae5c13fceda4e6cfc29.js",
+    "service-worker.js": "/Pokemon-App/service-worker.js",
+    "static/css/main.e5f3a768.chunk.css.map": "/Pokemon-App/static/css/main.e5f3a768.chunk.css.map"
+  }
+}
