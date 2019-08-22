@@ -80,7 +80,12 @@ var toRender = data.pokemons.map(({ id,number,name,maxCP, maxHP,image,types,evol
       <li>Number: {number}</li>
       <li>MaxCP: {maxCP}</li>
       <li>MaxHP: {maxHP}</li>
-      <li>Types: {types}</li>
+      <br></br>
+      <ul>Types: {
+       types.map((result) =>(
+        <li> {result} </li>
+      ))
+    }
     </ul>
     </div>)
 });
