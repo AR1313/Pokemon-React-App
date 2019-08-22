@@ -86,6 +86,7 @@ var toRender = data.pokemons.map(({ id,number,name,maxCP, maxHP,image,types,evol
         <li> {result} </li>
       ))
     }
+      </ul>
     </ul>
     </div>)
 });
